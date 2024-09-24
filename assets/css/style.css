@@ -577,6 +577,7 @@ footer .content-footer ul {
     .col-3 ,.col-md-2> div{
         width: 100%;
         gap:0;
+        margin-bottom: .5rem;
     }
 }
 
